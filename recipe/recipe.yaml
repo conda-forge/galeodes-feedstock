@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: galeodes
-  version: 0.7
+  version: "0.7"
 
 package:
   name: ${{ name|lower }}
